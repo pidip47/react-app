@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-app/static/css/main.080c48a1.css",
-    "main.js": "/react-app/static/js/main.527955ef.js",
+    "main.js": "/react-app/static/js/main.3b20751f.js",
     "static/js/787.6a90be2a.chunk.js": "/react-app/static/js/787.6a90be2a.chunk.js",
     "static/media/bg.png": "/react-app/static/media/bg.45b6a70905ac33b4cb90.png",
     "static/media/avatar4.png": "/react-app/static/media/avatar4.1777ca5a4700dc985aa4.png",
@@ -12,11 +12,11 @@
     "static/media/Rancho-Regular.ttf": "/react-app/static/media/Rancho-Regular.3570bfe74a87405d74f3.ttf",
     "index.html": "/react-app/index.html",
     "main.080c48a1.css.map": "/react-app/static/css/main.080c48a1.css.map",
-    "main.527955ef.js.map": "/react-app/static/js/main.527955ef.js.map",
+    "main.3b20751f.js.map": "/react-app/static/js/main.3b20751f.js.map",
     "787.6a90be2a.chunk.js.map": "/react-app/static/js/787.6a90be2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.080c48a1.css",
-    "static/js/main.527955ef.js"
+    "static/js/main.3b20751f.js"
   ]
 }
