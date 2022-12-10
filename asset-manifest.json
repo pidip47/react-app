@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.080c48a1.css",
+    "main.js": "/react-app/static/js/main.33dac9f1.js",
+    "static/js/787.6a90be2a.chunk.js": "/react-app/static/js/787.6a90be2a.chunk.js",
+    "static/media/bg.png": "/react-app/static/media/bg.45b6a70905ac33b4cb90.png",
+    "static/media/avatar4.png": "/react-app/static/media/avatar4.1777ca5a4700dc985aa4.png",
+    "static/media/avatar2.png": "/react-app/static/media/avatar2.7cba38a379376bf29686.png",
+    "static/media/avatar3.png": "/react-app/static/media/avatar3.6e48239e0fe322d0d8bb.png",
+    "static/media/avatar5.png": "/react-app/static/media/avatar5.357c041cb338a2cf7e6d.png",
+    "static/media/avatar1.png": "/react-app/static/media/avatar1.534563750feac5b412a3.png",
+    "static/media/Rancho-Regular.ttf": "/react-app/static/media/Rancho-Regular.3570bfe74a87405d74f3.ttf",
+    "index.html": "/react-app/index.html",
+    "main.080c48a1.css.map": "/react-app/static/css/main.080c48a1.css.map",
+    "main.33dac9f1.js.map": "/react-app/static/js/main.33dac9f1.js.map",
+    "787.6a90be2a.chunk.js.map": "/react-app/static/js/787.6a90be2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.080c48a1.css",
+    "static/js/main.33dac9f1.js"
+  ]
+}
